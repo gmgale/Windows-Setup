@@ -21,6 +21,7 @@ choco install -y googlechrome
 choco install -y firefox
 choco install -y flashplayerplugin
 choco install -y jre8 #java
+choco install -y qbittorrent
 
 # Social
 choco install -y microsoft-teams.install
@@ -33,12 +34,14 @@ choco install -y winrar
 choco install -y vlc
 choco install -y autohotkey.portable
 choco install -y openvpn
+choco install -y rainmeter
 
 # Office
 choco install -y adobereader
 choco install -y libreoffice-fresh
 
 # Programming
+choco install -y vim
 choco install -y python3
 choco install -y php
 choco install -y golang
@@ -56,6 +59,12 @@ choco install -y vscode-go
 # Anti-virus
 choco install -y virustotaluploader
 choco install -y vt-cli #Virustotal CLI
+choco install -y avgantivirusfree
+
+# Oracle
+choco install -y oraclejdk
+choco install -y oracle-sql-developer
+choco install -y vscode-oracle-devtools
 
 
 Write-Host "Congratulations! You installed everything!"
