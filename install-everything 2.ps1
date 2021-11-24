@@ -35,6 +35,8 @@ choco install -y vlc
 choco install -y autohotkey.portable
 choco install -y openvpn
 choco install -y rainmeter
+choco install -y curl
+choco install -y cygwin
 
 # Office
 choco install -y adobereader
@@ -60,6 +62,7 @@ choco install -y vscode-go
 choco install -y virustotaluploader
 choco install -y vt-cli #Virustotal CLI
 choco install -y avgantivirusfree
+choco install -y malwarebytes
 
 # Oracle
 choco install -y oraclejdk
