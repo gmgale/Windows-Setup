@@ -42,7 +42,6 @@ choco install -y libreoffice-fresh
 choco install -y python3
 choco install -y php
 choco install -y golang
-choco install -y git.install
 choco install -y vscode
 choco install -y curl
 choco install -y wget
