@@ -37,13 +37,13 @@ choco install -y openvpn
 choco install -y rainmeter
 choco install -y curl
 choco install -y cygwin
+choco install -y wd-backup
 
 # Office
 choco install -y adobereader
 choco install -y libreoffice-fresh
 
 # Programming
-choco install -y vim
 choco install -y python3
 choco install -y php
 choco install -y golang
@@ -57,16 +57,19 @@ choco install -y docker-cli
 
 # VScode Extentions
 choco install -y vscode-go
+choco install -y vscode-python
+choco install -y vscode-jupyter
+choco install -y vscode-intellicode
 
 # Anti-virus
 choco install -y virustotaluploader
 choco install -y vt-cli #Virustotal CLI
 choco install -y avgantivirusfree
 choco install -y malwarebytes
+choco install -y avastfreeantivirus
 
 # Oracle
 choco install -y oraclejdk
-choco install -y oracle-sql-developer
 choco install -y vscode-oracle-devtools
 
 

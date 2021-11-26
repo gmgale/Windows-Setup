@@ -1,6 +1,7 @@
 # Windows-Setup
 
-This is a collection of scripts to speed up seeting up a new windows box.
+This is a collection of scripts to speed up seeting up a new windows machine.
 
-Run 1 then 2.
+Start an admin powershell then run 1, then 2 in the same session.
+
 If there are issues, run "set-executionpolicy unrestricted" in powershell first.
